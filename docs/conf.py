@@ -6,4 +6,4 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = ['_build']
 html_theme = 'sphinx_rtd_theme'
-html_baseurl = 'https://servsafe-docs.readthedocs.io/'
+html_baseurl = 'https://servsafe-manager-docs.readthedocs.io/'

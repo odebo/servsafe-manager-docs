@@ -11,6 +11,14 @@ FDA Food Code and the official 7-domain / 21-task exam blueprint.
    temperatures
    allergens
    study-plan
+   passing-score
+   renewal
+   vs-prometric
+   manager-vs-food-handler
+   cross-contamination
+   cleaning-sanitizing
+   receiving-storage
+   faq
 
 Free 580-question practice bank: https://foodsafeprep.com/
 
@@ -25,3 +33,5 @@ Code rule each item traces back to.
 - `Exam blueprint mastery map <https://foodsafeprep.com/servsafe-manager-exam-blueprint>`_
 - `Food temperature cheat sheet <https://foodsafeprep.com/servsafe-temperatures>`_
 - `ServSafe passing score explained <https://foodsafeprep.com/servsafe-passing-score>`_
+- `ServSafe recertification rules <https://foodsafeprep.com/servsafe-renewal>`_
+- `Food allergen reference <https://foodsafeprep.com/servsafe-allergens>`_
