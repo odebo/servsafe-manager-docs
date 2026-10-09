@@ -27,6 +27,25 @@ FDA Food Code and the official 7-domain / 21-task exam blueprint.
    pest-control
    facility-standards
    faq
+   time-temperature-log
+   calibrating-thermometers
+   bare-hand-contact
+   three-compartment-sink
+   chemical-sanitizer-concentration
+   cooling-logs
+   reheating-for-hot-holding
+   date-marking
+   receiving-temperatures
+   temperature-abuse-risk
+   food-recall
+   integrated-pest-management
+   food-defense-vs-food-security
+   active-managerial-control
+   special-processes-variance
+   allergen-cross-contact
+   employee-health-reporting
+   produce-washing
+   dishwashing-machines
 
 Free 580-question practice bank: https://foodsafeprep.com/
 
