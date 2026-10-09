@@ -18,7 +18,6 @@ FDA Food Code and the official 7-domain / 21-task exam blueprint.
    cooling-methods
    thawing-methods
    cross-contamination
-   allergen
    allergens
    cleaning-sanitizing
    sanitizer-ppm
